@@ -1,0 +1,7 @@
+apiVersion: kirishikistudios.com/v1alpha1
+kind: Mackerel
+metadata:
+  name: example-mackerel
+spec:
+  # Add fields here
+  size: 3
